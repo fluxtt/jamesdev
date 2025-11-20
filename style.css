@@ -50,3 +50,10 @@ h1 {
   color: #555;
   border-bottom: 1px dotted #555;
 }
+
+.lab-link {
+  font-size: 1.5rem; /* Bigger than normal text (1rem), smaller than H1 (2.5rem) */
+  font-weight: bold;
+  display: inline-block; /* Helps it sit nicely with the margin */
+  margin-bottom: 0.5rem; /* A little extra space below it */
+}

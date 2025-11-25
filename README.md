@@ -1,5 +1,5 @@
 # 🧑‍💻 Sandbox Site
-## 🚧 Philosophy: Rediscovering the Joy of Code
+## Rediscovering the Joy of Code
 
 This repository is **not a portfolio**. It is a low-stakes, public code playground dedicated to rediscovering the creative, chaotic, and fun side of programming after a long period of academic burnout.
 
@@ -9,11 +9,7 @@ This space exists to house small, self-contained experiments that serve no purpo
 
 ---
 
-## 🔗 Live Site & Structure
-
 ### Live Site
-You can view the main, minimal site here:
+You can view the site here:
 [https://www.jamestibbott.dev/](https://www.jamestibbott.dev/)
 
-### Repository Structure
-The project maintains a minimal, static structure to keep the focus on simple HTML/CSS and client-side JavaScript.
